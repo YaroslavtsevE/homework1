@@ -1,2 +1,2 @@
-1 line on local
+1 line on local conflict first
 2 line from remote
